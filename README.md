@@ -1,5 +1,7 @@
 # My Machine Learning Codes
 
+python version: 3.8.18
+
 If you are on windows and you wish to run a gpu-supported version of tensorflow/keras, run following commands in your anaconda console:
 
 `conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0`
