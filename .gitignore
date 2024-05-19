@@ -4,3 +4,5 @@ datasets
 *.csv
 *.h5
 model.png
+.venv
+.vscode
